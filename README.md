@@ -1,5 +1,5 @@
 # Wrangle-and-Analyze-Data-WeRateDogs-Achieve
-WeRateDogs is a twitter account that rates dog pictures. This project provides insight of WeRateDogs archive data from gathering to wrangling, to analysing and visualising, which is included in `wrangle_act.ipynb`.
+WeRateDogs is a twitter account that rates dog pictures. This project provides insight of WeRateDogs archive data from gathering to wrangling, to analysing and visualising, which is included in `wrangle_act.ipynb` or `wrangle_act.html`.
 
 Two dataset with incomplete information were provided, namely `twitter_archive_enhanced.csv` and `image_predictions.tsv` . To gather other useful data, I queried the Twitter API for each tweet's JSON data using Python's Tweepy library and store them in `tweet_json.txt` file.
 
